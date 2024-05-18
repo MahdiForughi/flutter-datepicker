@@ -1,16 +1,16 @@
 name: flutter_linear_datepicker
 description: A flutter package providing Gregorian and Jalaali (Persian) date picker
-version: 2.0.5
+version: 2.0.6
 homepage: https://github.com/alikhaleghi76/flutter-datepicker
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  sdk: '>=3.1.5 <4.0.0'
   flutter: ">=1.17.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  shamsi_date: ^1.0.0
+  shamsi_date: ^1.0.2
 
 dev_dependencies:
   flutter_test:
